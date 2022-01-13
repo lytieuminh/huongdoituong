@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch quanlisinhvien_testdrive",
+            "request": "launch",
+            "mainClass": "TUAN01.quanlisinhvien_testdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
             "name": "Launch test",
             "request": "launch",
             "mainClass": "test",
