@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bank_co_cau_truc",
+            "request": "launch",
+            "mainClass": "oo.bank_co_cau_truc",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Customer_testdrive",
+            "request": "launch",
+            "mainClass": "TUAN01.Customer_testdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch employer_testdrive",
+            "request": "launch",
+            "mainClass": "TUAN01.employer_testdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Account_testdrive",
+            "request": "launch",
+            "mainClass": "TUAN01.Account_testdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bank_co_cau_truc",
+            "request": "launch",
+            "mainClass": "tuan01.bank_co_cau_truc",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch bank",
+            "request": "launch",
+            "mainClass": "bank",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bank_NonStructed",
+            "request": "launch",
+            "mainClass": "Bank_NonStructed",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "huongdoituong_b319cf1a"
+        }
+    ]
+}
