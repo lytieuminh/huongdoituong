@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch xoay_vat_the_testdrive",
+            "request": "launch",
+            "mainClass": "TUAN01.Bai_Tap_xoay_hinh.xoay_vat_the_testdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
             "name": "Launch quanlisinhvien_testdrive",
             "request": "launch",
             "mainClass": "TUAN01.quanlisinhvien_testdrive",
