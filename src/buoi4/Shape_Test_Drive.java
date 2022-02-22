@@ -16,7 +16,7 @@ public class Shape_Test_Drive {
                 System.out.println("======nhap so 1 de quay hinh tron==========");
                 System.out.println("======nhap so 2 de quay hinh vuong=========");
                 System.out.println("======nhap so 3 de quay hinh tam giac======");
-                System.out.println("======nhap so 3 de quay hinh emoeba======");
+                System.out.println("======nhap so 4 de quay hinh emoeba======");
                 System.out.println("======nhap so 5 de thoat chuong trinh======");
                 System.out.println("===========================================");
                 System.out.println("== hay chon so de xoay hinh ===============");

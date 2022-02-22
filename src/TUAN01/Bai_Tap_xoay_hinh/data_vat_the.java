@@ -8,6 +8,6 @@ public class data_vat_the {
         hinh_dang = new_hinh_dang;
     }
     public void xoay_hinh(){
-        System.out.println( this.hinh_dang + "da xoay cuc manh XD " );
+        System.out.println( this.hinh_dang + " "+ "da xoay cuc manh XD " );
     }
 }

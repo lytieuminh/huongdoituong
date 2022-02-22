@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sanphamtestdrive",
+            "request": "launch",
+            "mainClass": "Bai_Lap_4.sanpham.sanphamtestdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shape_Test_Drive",
+            "request": "launch",
+            "mainClass": "buoi4.Shape_Test_Drive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch dogtestdrive",
+            "request": "launch",
+            "mainClass": "test.dogtestdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch dogtestdrivee",
+            "request": "launch",
+            "mainClass": "tuan02.buoi1.dogtestdrivee",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch studenttestdrive",
+            "request": "launch",
+            "mainClass": "tuan02.buoi1.studenttestdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
             "name": "Launch xoay_vat_the_testdrive",
             "request": "launch",
             "mainClass": "TUAN01.Bai_Tap_xoay_hinh.xoay_vat_the_testdrive",

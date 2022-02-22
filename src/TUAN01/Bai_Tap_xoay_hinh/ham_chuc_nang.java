@@ -7,7 +7,7 @@ import TUAN01.Bai_Tap_xoay_hinh.cac_vat_the.*;
 
 public class ham_chuc_nang {
 
-    // run menu
+    // menu
     void menu(){
         hinh_tron a = new hinh_tron();
         hinh_vuong b = new hinh_vuong();
@@ -49,7 +49,8 @@ public class ham_chuc_nang {
                     }
                     System.out.print("Quay tro ve MENU lua chon ?(y/n): ");
                 }
-                    while(input.nextLine().equals("y"));         
+                    while(input.nextLine().equals("y"));       
+                   
             }
         }
 
