@@ -13,6 +13,6 @@ public class Circle {
     }
     
     void playSound() {
-        System.out.println("choi nhac " + soundFile);
+        System.out.println(" choi nhac " + soundFile);
     }    
 }

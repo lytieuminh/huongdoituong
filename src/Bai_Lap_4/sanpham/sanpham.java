@@ -18,7 +18,7 @@ public class sanpham {
     public sanpham(){
 
     }
-    private double Tien_Thue_Nhap_Khau(){
+    public double Tien_Thue_Nhap_Khau(){
         return Price * 0.1;
     }
 

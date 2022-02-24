@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch San_Pham_Test_Drive",
+            "request": "launch",
+            "mainClass": "Buoi_5.Bai_Tap_Ve_Nha.Bai_LAB_4.San_Pham_Test_Drive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shape_test_drive",
+            "request": "launch",
+            "mainClass": "Buoi_5.Bai_Tap_Ve_Nha.Bai_Xoay_Hinh.Shape_test_drive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
+            "name": "Launch newdoggtestdrive",
+            "request": "launch",
+            "mainClass": "newdoggtestdrive",
+            "projectName": "huongdoituong_b319cf1a"
+        },
+        {
+            "type": "java",
             "name": "Launch sanphamtestdrive",
             "request": "launch",
             "mainClass": "Bai_Lap_4.sanpham.sanphamtestdrive",
